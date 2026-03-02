@@ -1,8 +1,8 @@
 (function () {
   'use strict';
 
-  // ---- Date de début du couple : 21 août 2024 ----
-  const COUPLE_START = new Date('2024-08-21');
+  // ---- Date de début du couple : 21 février 2024 ----
+  const COUPLE_START = new Date('2024-02-21');
 
   // ---- Compteur de jours ----
   function updateDaysCounter() {
