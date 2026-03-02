@@ -332,6 +332,14 @@ body {
 .galerie-category:last-child {
   margin-bottom: 0;
 }
+.galerie-ps {
+  margin-top: 2rem;
+  margin-bottom: 0;
+  font-size: 0.95rem;
+  font-style: italic;
+  color: var(--text-soft);
+  text-align: center;
+}
 .galerie-category-title {
   font-family: var(--font-display);
   font-size: 1.4rem;
